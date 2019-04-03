@@ -5,6 +5,9 @@
 - Conducted requirements analysis of Web AR platform, established development environment.
 - Develop user’s behavior monitoring modules for touch and voice, and animation control module.
 - Perform module-level tests and integrate tests to guarantee its well-functioning.
-
+### Environment
+- MacOS X
+- Javascript + HTML
+- Three.js, Ar.js
 ### Demo
 ![test](https://github.com/BryceZhang95/WebAR/blob/master/webar18.gif)
